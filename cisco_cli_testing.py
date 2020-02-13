@@ -14,7 +14,7 @@ ROUTERIP = ''
 USERNAME = ''
 # Password
 PASSWORD = ''
-# Optional filename for input to write to the router, leave blank and we'll add a MOTD to the retrieved config
+# Optional filename for input to write to the router
 INPUTFILE = ''
 
 
