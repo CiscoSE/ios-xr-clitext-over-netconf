@@ -8,6 +8,7 @@ For Official Cisco Documentation you can refer to examples at the NCS 1004 Progr
 * ncclient
 * xml.etree
 * lxml.builder
+
 All tests performed using Python 2.7.15
 ## Script Usage
 ```
@@ -22,3 +23,6 @@ At the top of the script file you'll note some constant fields to update.
 * INPUTFILE - If you want to test pushing an entire configuration file you can specify it's location here
 
 In the main body of the script you can obviously tweak for specific tests to your requirements
+
+## Author
+* **Paul Van Lierop**
